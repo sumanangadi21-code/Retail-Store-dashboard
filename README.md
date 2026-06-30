@@ -43,6 +43,7 @@ Developed an interactive Power BI dashboard to analyze retail store sales perfor
 - Identified top-performing products and customer segments.
 
 ## Dashboard Preview
-<img width="1288" height="761" alt="Screenshot 2026-06-29 233616" src="https://github.com/user-attachments/assets/57c78aad-60b6-4631-8931-210c8a947b78" />
+<img width="1162" height="652" alt="Retail Store dashboard" src="https://github.com/user-attachments/assets/9f3cbf2e-e98e-48f3-b770-730c7bfda2d2" />
+
 
 
