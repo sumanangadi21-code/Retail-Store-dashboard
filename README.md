@@ -16,7 +16,7 @@ Developed an interactive Power BI dashboard to analyze retail store sales perfor
 - DAX
 
 ## Dataset
-- - <a href="https://1drv.ms/x/c/804ebb5c8bfffb66/IQAcLtKVsGXWTI3wqsJiHMCJAVEFniSpTdsZI1H3uxmFBaE?e=ooVfm7">Retail Stores Sales Dataset</a>
+- Data set used <a href="https://1drv.ms/x/c/804ebb5c8bfffb66/IQAcLtKVsGXWTI3wqsJiHMCJAVEFniSpTdsZI1H3uxmFBaE?e=ooVfm7">Retail Stores Sales Dataset</a>
 - Cleaned and transformed using Power Query before visualization.
 
 ## Dashboard Features
