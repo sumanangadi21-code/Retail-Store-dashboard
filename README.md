@@ -19,3 +19,19 @@ Developed an interactive Power BI dashboard to analyze retail store sales perfor
 - Retail Store Sales Dataset
 - Cleaned and transformed using Power Query before visualization.
 
+## Dashboard Features
+- KPI Cards (Total Sales, Profit, Orders)
+- Sales by Region
+- Sales by Category and Sub-Category
+- Monthly Sales Trend
+- Top Performing Products
+- Interactive Filters (Region, Category, Segment)
+
+## Project Workflow
+1. Imported the retail sales dataset into Power BI.
+2. Cleaned and transformed the data using Power Query.
+3. Created calculated measures using DAX.
+4. Designed interactive charts and KPI cards.
+5. Added slicers and filters for dynamic reporting.
+6. Published the final dashboard for business insights.
+
