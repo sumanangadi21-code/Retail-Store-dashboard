@@ -32,8 +32,8 @@ Developed an interactive Power BI dashboard to analyze retail store sales perfor
 2. Cleaned and transformed the data using Power Query.
 3. Designed a Star Schema by creating a central fact table and related dimension tables for efficient data modeling. <img width="1078" height="675" alt="Star_Schema" src="https://github.com/user-attachments/assets/187dae1f-0df8-43eb-afbe-d39e8807696d" />
 
-5. Established relationships between fact and dimension tables.
-6. Created DAX measures for key business metrics such as Total Sales, Total Profit, and Order Count.
-7. Developed an interactive dashboard using charts, KPI cards, maps, and slicers.
-8. Validated the dashboard and generated business insights
+4. Established relationships between fact and dimension tables.
+5. Created DAX measures for key business metrics such as Total Sales, Total Profit, and Order Count.
+6. Developed an interactive dashboard using charts, KPI cards, maps, and slicers.
+7. Validated the dashboard and generated business insights
 
