@@ -37,3 +37,13 @@ Developed an interactive Power BI dashboard to analyze retail store sales perfor
 6. Developed an interactive dashboard using charts, KPI cards, maps, and slicers.
 7. Validated the dashboard and generated business insights
 
+## Key Insights
+- Identified the highest revenue-generating region.
+- Compared sales and profit across product categories.
+- Analyzed monthly sales trends.
+- Identified top-performing products and customer segments.
+
+## Dashboard Preview
+<img width="1288" height="761" alt="Screenshot 2026-06-29 233616" src="https://github.com/user-attachments/assets/57c78aad-60b6-4631-8931-210c8a947b78" />
+
+
